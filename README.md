@@ -10,5 +10,5 @@ Now that I have a few public repos with which I am mildly satisfied, I finally m
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=almasen&count_private=true&show_icons=true&include_all_commits=true&hide=stars,contribs&theme=calm" />
 </a>
 <a href="https://github.com/almasen?tab=overview&from=2020-09-01&to=2020-09-21">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almasen&layout=compact&theme=calm" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almasen&layout=compact&theme=calm&langs_count=4" />
 </a>
